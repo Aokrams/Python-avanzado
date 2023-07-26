@@ -1,0 +1,12 @@
+{
+    "llaveString": "texto",
+    "llaveInt": 1,
+    "llaveFloat": 1.2,
+    "llaveBooleana": true,
+    "llaveBooleana2": false,
+    "llaveObjeto": {
+        "nombre": "Brandon",
+        "edad": 22
+    },
+    "llaveArray": [1,2,3]
+}

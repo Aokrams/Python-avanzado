@@ -1,0 +1,5 @@
+DEBUG:root:Log de debuging
+INFO:root:Log informativo
+WARNING:root:Log de advertencia
+ERROR:root:Log de error
+CRITICAL:root:Log de error critico
